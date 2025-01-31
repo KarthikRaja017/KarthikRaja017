@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=karthikraja017&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+🌐 **Portfolio:**  
+<a href="https://karthikrajay-portfolio.vercel.app/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74377164/230710247-e1c29534-1ad6-47a7-987f-78f6b40cfa1e.gif" alt="Visit My Portfolio" width="200"/>
+</a>
+
 ### 🔹 About Me
 - 📫 Reach me at **karthikrajayuvaraj16@gmail.com**  
 - 📄 Know about my experiences → [My Resume](https://drive.google.com/file/d/1wRV1_dssla2uYcXyfX6Hah1CWGbvqcVw/view?usp=drive_link)  

@@ -2,13 +2,19 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=karthikraja017&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=karthikraja017&label=Profile%20views&color=0e75b6&style=fla" alt="Profile Views" />
 </p>
 
-🌐 **Portfolio:**  
-<a href="https://karthikrajay-portfolio.vercel.app/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74377164/230710247-e1c29534-1ad6-47a7-987f-78f6b40cfa1e.gif" alt="Visit My Portfolio" width="200"/>
-</a>
+<table>
+  <tr>
+    <td>🌐 <strong>Portfolio:</strong></td>
+    <td>
+      <a href="https://karthikrajay-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Visit Portfolio">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🔹 About Me
 - 📫 Reach me at **karthikrajayuvaraj16@gmail.com**  
